@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Kırmızıyüz</h1>
-<h3 align="center">A passionate game developer from Türkiye</h3>
+<h2 align="center">Passionate programmer and game developer with 6+ years of experience in game development, game design and robotics. Developed mobile games that have been played by 20,000+ players. Created firmware, simulations, user interfaces for autonomous vehicles that is being used by hobbyists and professionals. Skilled in Unity 3D, C#, C++, Python, Game Programming and Game Design. Strong engineering professional with dozens of projects made with clean, readable code. Also loves working with robotic systems, electronics and low-level hardware.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
